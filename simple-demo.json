@@ -1,0 +1,19 @@
+{
+  "id": "/simple-test",
+  "instances": 1,
+  "portDefinitions": [],
+  "container": {
+    "type": "DOCKER",
+    "volumes": [],
+    "docker": {
+      "image": "hello-world"
+    }
+  },
+  "cpus": 0.3,
+  "mem": 50,
+  "requirePorts": false,
+  "networks": [],
+  "healthChecks": [],
+  "fetch": [],
+  "constraints": []
+}
