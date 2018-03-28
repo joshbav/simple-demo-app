@@ -1,5 +1,5 @@
 {
-  "id": "/simple-test",
+  "id": "/simple-demo",
   "instances": 1,
   "portDefinitions": [],
   "container": {
